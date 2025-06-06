@@ -1,13 +1,4 @@
-# Plot Generation AI
 
-Plot Generation AI is an intelligent tool designed to help users automatically generate creative plots for stories, novels, and screenplays. Leveraging the power of artificial intelligence, this project aims to assist writers and creators in overcoming writer's block, brainstorming ideas, and expanding their narratives with fresh, engaging plotlines.
-
-## Features
-
-- **AI-Powered Plot Generation:** Generates original story plots based on user inputs or predefined genres.
-- **Customizable Prompts:** Users can specify genres, themes, characters, and settings to tailor the generated plots.
-- **Multiple Output Formats:** Supports exporting plots in various formats for easy integration into your writing workflow.
-- **User-Friendly Interface:** Simple to use, even for those new to AI tools.
 
 ## Getting Started
 
