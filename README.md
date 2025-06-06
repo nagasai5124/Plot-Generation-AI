@@ -58,6 +58,3 @@ Plot Generation AI is an interactive web application that uses AI to help you an
 
 ![Media Player 5_16_2025 11_08_08 AM](https://github.com/user-attachments/assets/8d63b38b-4747-4d87-b289-18732a23d2b3)
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
